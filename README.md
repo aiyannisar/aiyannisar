@@ -11,12 +11,12 @@
 
 Email Me 👉 ✉️ **aiyannisarmalik@gmail.com** For Collaboration/Project or Anything Else. ⚡
 
-- 🔭 **I’m currently working on:** [AI-Powered Web Applications & Data Analytics Projects](https://aiyannisar.xyz/projects)
+- 🔭 **I’m currently working on:** [AI-Powered Web Applications & Data Analytics Projects](https://aiyannisar.xyz/)
 - 🌱 **I’m currently learning:** Data Structures & Algorithms (DSA), Machine Learning, Deep Learning, React.js, and AI Automation.
-- 👯 **I’m looking to collaborate on:** [Open Source AI, Web Development & Machine Learning Projects](https://aiyannisar.xyz/collab)
-- 🤝 **I’m looking for help with:** [Advanced AI Models & Real-world Deployment](https://aiyannisar.xyz/help)
+- 👯 **I’m looking to collaborate on:** [Open Source AI, Web Development & Machine Learning Projects](https://aiyannisar.xyz/)
+- 🤝 **I’m looking for help with:** [Advanced AI Models & Real-world Deployment](https://aiyannisar.xyz/)
 - 👨‍💻 **Portfolio:** [aiyannisar.xyz](https://aiyannisar.xyz)
-- 📝 **Articles:** [aiyannisar.xyz/blog](https://aiyannisar.xyz)
+- 📝 **Articles:** [aiyannisar.xyz/](https://aiyannisar.xyz)
 - 💬 **Ask me about:** React, Vue, GSAP, JavaScript, AI basics & Web Development
 - 📫 **How to reach me:** [aiyannisarmalik@gmail.com](mailto:aiyannisarmalik@gmail.com)
 - ⚡ **Fun fact:** I debug faster with chai ☕ and I still think I’m funny 😄
