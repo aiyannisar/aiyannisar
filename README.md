@@ -366,10 +366,16 @@ Interactive analytics platform for CRM, leads and business data.
 
 <!-- 🟡 CONTRIBUTION ACTIVITY -->
 
+<hr>
+
 <h2 align="center">🟡 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiyannisar&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" width="90%" alt="Contribution Activity"/>
+  <img
+    src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/activity-graph.svg"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 # 🐍 CONTRIBUTION SNAKE
