@@ -364,13 +364,17 @@ Interactive analytics platform for CRM, leads and business data.
 
 # 🟡 CONTRIBUTION ACTIVITY
 
+<!-- 🟡 CONTRIBUTION ACTIVITY -->
+
+<h2 align="center">🟡 CONTRIBUTION ACTIVITY</h2>
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiyannisar&bg_color=080808&color=FFD700&line=00BFFF&point=FFFFFF&area_color=333333&area=true&hide_border=false&custom_title=Aiyan's%20Contribution%20Activity" width="96%"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aiyannisar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=chartreuse-dark"
+    alt="Aiyan Nisar Malik GitHub Contribution Activity"
+    width="90%"
+  />
 </p>
-
----
 
 # 🐍 CONTRIBUTION SNAKE
 
@@ -399,13 +403,31 @@ alt="GitHub Contribution Snake"/>
 
 # 🏆 GITHUB TROPHIES
 
+<!-- 🟡 CONTRIBUTION ACTIVITY -->
+
+<h2 align="center">🟡 CONTRIBUTION ACTIVITY</h2>
+
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aiyannisar&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aiyannisar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=chartreuse-dark"
+    alt="Aiyan Nisar Malik GitHub Contribution Activity"
+    width="90%"
+  />
 </p>
 
 ---
+
+<!-- 🏆 GITHUB TROPHIES -->
+
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=aiyannisar&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="Aiyan Nisar Malik GitHub Trophies"
+    width="90%"
+  />
+</p>
 
 # 💻 TERMINAL
 
