@@ -402,14 +402,13 @@ alt="GitHub Contribution Snake"/>
 ---
 # 🏆 GITHUB TROPHIES
 
-<!-- 🏆 GITHUB TROPHIES -->
 <h2 align="center">🏆 GITHUB TROPHIES</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=aiyannisar&theme=matrix&no-frame=true&no-bg=true&column=6"
-    alt="GitHub Trophies"
+    src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/main/trophy.svg"
     width="90%"
+    alt="GitHub Trophies"
   />
 </p>
 
