@@ -380,30 +380,25 @@ Interactive analytics platform for CRM, leads and business data.
 
 # 🐍 CONTRIBUTION SNAKE
 
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
 <p align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake-dark.svg"/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake.svg"/>
-
-<img
-src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake-dark.svg"
-width="95%"
-alt="GitHub Contribution Snake"/>
-
-</picture>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/github-contribution-grid-snake.svg"
+      width="95%"
+      alt="Contribution Snake"
+    />
+  </picture>
 </p>
-
----
-
-
 
 ---
 # 🏆 GITHUB TROPHIES
