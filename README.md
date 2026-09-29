@@ -362,21 +362,7 @@ Interactive analytics platform for CRM, leads and business data.
 
 ---
 
-# 🟡 CONTRIBUTION ACTIVITY
 
-<!-- 🟡 CONTRIBUTION ACTIVITY -->
-
-<hr>
-
-<h2 align="center">🟡 CONTRIBUTION ACTIVITY</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/aiyannisar/aiyannisar/output/activity-graph.svg"
-    width="95%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
 
 # 🐍 CONTRIBUTION SNAKE
 
